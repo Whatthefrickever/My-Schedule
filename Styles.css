@@ -4,7 +4,32 @@
     Project: Exam2
 */
 
+html {
+    background-color: lightslategray;
+}
 
-body
-{
+body {
+    background-color: lightsteelblue;
+    border-radius: 25px;
+    padding-top: 25px;
+}
+
+table, th, td {
+    border: 2.5px solid;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 25px;
+    width: 95%;
+}
+
+th {
+    height: 60px;
+    width: 30px;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 15px;
 }
